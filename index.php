@@ -134,7 +134,7 @@ _smartsupp.offsetY = 20;// move along the X axis by 100 pixels
 
                 <li><a href="https://github.com/SagarNarwade" target="_blank"><i class="fab fa-github"></i></a></li>
 
-                <li><a href="#" target="_blank"><i class="fab fa-medium"></i></a></li>
+                <li><a href="https://link.medium.com/ma8JlsQ7zcb" target="_blank"><i class="fab fa-medium"></i></a></li>
               </ul>
             </div>
 
@@ -272,16 +272,16 @@ _smartsupp.offsetY = 20;// move along the X axis by 100 pixels
                               <i class="lnr lnr-store"></i>
                             </div>
                             <div class="ci-text">
-                              <h4>Ecommerce</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Data Visualisation</h4>
+                              <p>I am fully skilled in creating and implementing professional producing detailed Power BI reports, and performing multiple data management tasks. I also worked with various visualisation libraries of python, For e.g: Plotly, Matplotlib, Seaborn</p>
                             </div>
                           </div>
                           <div class="info-block-w-icon">
                             <div class="ci-icon">
                               <i class="lnr lnr-laptop-phone"></i>
                             </div><div class="ci-text">
-                              <h4>Web Design</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Web Developer</h4>
+                              <p>I aquire an ISO certificate for web development in PHP & MySQL. In my bachelors my final year project was mostly based on it. I am also aware with MVC frameworks like wordpress. </p>
                             </div>
                           </div>
                         </div>
@@ -296,16 +296,16 @@ _smartsupp.offsetY = 20;// move along the X axis by 100 pixels
                               <i class="lnr lnr-pencil"></i>
                             </div>
                             <div class="ci-text">
-                              <h4>Copywriting</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Building Models</h4>
+                              <p>I have good theoratical and practical knowledge of ML, DL and NLP. I worked with many projects and built lots of models to predict a data. This skills are futuristic weapons to conquer the every type of market.  </p>
                             </div>
                           </div>
                           <div class="info-block-w-icon">
                             <div class="ci-icon">
                               <i class="lnr lnr-flag"></i>
                             </div><div class="ci-text">
-                              <h4>Management</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Cypto Trading</h4>
+                              <p>Trading is also growing as a skill since technology came in our hands. I do crypto trading since 2019 and gained a lot knowledge about it. I held or holding various crypto currency like, $BTC, $ETH, $XRP, $LINK</p>
                             </div>
                           </div>
                         </div>
@@ -508,6 +508,16 @@ _smartsupp.offsetY = 20;// move along the X axis by 100 pixels
                           <div class="skill-percentage"></div>
                         </div>
                         <!-- End of Skill 4 -->
+                        <!-- Skill 4 -->
+                        <div class="skill clearfix">
+                          <h4>TensorBoard</h4>
+                          <div class="skill-value">60%</div>
+                        </div>
+                        <div class="skill-container skill-2">
+                          <div class="skill-percentage"></div>
+                        </div>
+                        <!-- End of Skill 4 -->
+
 
                       </div>
                       <!-- End of Design Skills -->
@@ -833,12 +843,12 @@ _smartsupp.offsetY = 20;// move along the X axis by 100 pixels
                           <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
                             <div class="portfolio-item-img">
                               <img src="img/dnn.png" alt="Deep Neural Network" title="" />
-                              <a href="https://github.com/SagarNarwade/Deep-Learning/tree/master/Mumbai1_Dataset_HousePrice_Prediction" title="Mumbai1_Dataset_HousePrice_Prediction"></a>
+                              <a href="https://github.com/SagarNarwade/Deep-Learning/" title="DNN"></a>
                             </div>
 
                             <i class="far fa-file-alt"></i>
                             <h4 class="name">Deep Neural Network</h4>
-                            <span class="category">Price Prediction</span>
+                            <span class="category">DNN</span>
                           </figure>
 
                           <figure class="item lbimage" data-groups='["category_all", "category_mockups"]'>
